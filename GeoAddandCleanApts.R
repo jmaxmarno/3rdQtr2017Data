@@ -13,7 +13,7 @@ require(ggmap)
 require(dplyr)
 require(arcgisbinding)
 arc.check_product()
-register_google(key = "AIzaSyDPFQb3Tx854Nn48Gsuc5RKssjSP_janF4")
+register_google(key = "APIKEYHERE")
 
 ####   INPUT    ####
 workspace <- "D:/Projects/GNAA/Data/3rdQtr2017Data"
